@@ -24,7 +24,7 @@
 .box1 {
   /* align-self: flex-start; */
   grid-column: 1/4;
-  grid-row: 1/4;
+  grid-row: 1/2;
 }
 
 .box2 {
@@ -99,6 +99,6 @@
   align-items: center;
   justify-content: center;
   padding-left: 40vw;
-  padding-top: 40vmin;
-  margin:auto;
+  padding-top: 40vh;
+  margin: auto;
 }
